@@ -19,7 +19,7 @@ my_project\
 ├── README.md\
 
 ## Installation
-To run this project, you need MATLAB. Follow these steps to set up the project:
+To run this project, you need MATLAB. To setup the project, please clone this github repo:
 
 Software Requirements:
 
