@@ -1,4 +1,4 @@
-	       time	   Inlet_SPL_db       Origin_SPL_db     Top_Wall_SPL_db	 Bottom_Wall_SPL_db	  Outlet_SPL_db
+               time        Inlet_SPL_db       Origin_SPL_db     Top_Wall_SPL_db  Bottom_Wall_SPL_db       Outlet_SPL_db
              0.0002  -2.88571629987e-07               1e-06               1e-06               1e-06               1e-06
              0.0004   2.02188169901e-07               1e-06               1e-06               1e-06               1e-06
              0.0006  -1.59081955757e-07               1e-06               1e-06               1e-06               1e-06
